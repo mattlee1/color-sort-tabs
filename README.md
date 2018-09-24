@@ -13,4 +13,4 @@ Once it is installed, navigate to %USERPROFILE%\.vscode\extensions\be5invis.vsco
 				"key":"ctrl+7"
 }],
 
-Next download this repository and include it in the directory %USERPROFILE%\.vscode\extensions. Restart VSCode and press ctrl+8 to change the color of your active tab. A command prompt will appear asking you for the css color or hex code that you wish to use. Then press ctrl + 7 to reload the css, and click restart VSCode. 
+Next download this repository and include it in the directory %USERPROFILE%\.vscode\extensions. Restart VSCode and press ctrl+8 to change the color of your active tab. A command prompt will appear asking you for the css color or hex code that you wish to use. Once you've changed the color of all the tabs you want, press ctrl + 7 to reload the css, and click restart VSCode. 
