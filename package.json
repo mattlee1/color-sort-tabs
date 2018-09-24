@@ -20,6 +20,14 @@
                 "command": "extension.colorizeTab",
                 "title": "Colorize Tab"
             }
+        ],
+        "keybindings":[
+            {
+                "command": "extension.colorizeTab",
+                "key": "ctrl+8"
+            },{
+                "command": ""
+            }
         ]
     },
     "scripts": {
