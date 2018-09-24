@@ -1,6 +1,6 @@
 # color-sort-tabs README
 
-This vscode extension is still in development and has limited features at the moment. There are a number of known issues at the moment. 
+This vscode extension is still in development and has limited features at the moment. There are a number of known issues. 
 
 
 To use the extension you must first install the "vscode-custom-css" plugin that it is dependent on. The instructions on how to do this as well as the download link can be found here:
